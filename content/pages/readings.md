@@ -145,7 +145,7 @@ Lopez, Guillermo. "Public Space Design." _Urban Land_ 65, no. 3 (March 2006): 60
 
 Waxman, Andy. In [_Utilizing Economic Theories of Retail to Revitalize Inner-City Neighborhood Business Districts: The Case of Upham's Corner Main Streets_](http://dspace.mit.edu/handle/1721.1/42819). pp. 38-51 and 65-79, chapters 4 and 6.
 
-Milder, N. David. _Niche Strategies for Downtown Revitalization_. Boonton, NJ: Alexander Communications Group. pp. 53-81. \[Read the Introduction ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 7.0MB](http://fyi.uwex.edu/downtown-market-analysis/files/2011/02/Niche_Revitalization_Strategies-1.pdf))\]
+Milder, N. David. _Niche Strategies for Downtown Revitalization_. Boonton, NJ: Alexander Communications Group. pp. 53-81. \[Read the Introduction ([PDF - 7.0MB](http://fyi.uwex.edu/downtown-market-analysis/files/2011/02/Niche_Revitalization_Strategies-1.pdf))\]
 
 The Renaissance Project. "St. Claude Avenue Main Street Application."
 
@@ -232,11 +232,11 @@ Urban Markets Initiative, et al. [_Downtown Detroit in Focus: A Profile of Marke
 
 Optional: Alderslade, Jamie, Johm Talmage, and Yusek Freeman. [_Measuring the Informal Economy-One Neighborhood at a Time_](https://www.brookings.edu/wp-content/uploads/2016/06/20060905_informaleconomy.pdf). The Brookings Institution, September 2006.
 
-Glickman, Norman J., and Lisa J. Servon. _More than Bricks and Sticks: What is Community Development Capacity_. CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cupr.rutgers.edu/wp-content/uploads/2014/08/Report1.pdf))
+Glickman, Norman J., and Lisa J. Servon. _More than Bricks and Sticks: What is Community Development Capacity_. CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University 1997. ([PDF](http://cupr.rutgers.edu/wp-content/uploads/2014/08/Report1.pdf))
 
-McKnight, John L., and John P. Kretzmann. _Mapping Community Capacity_. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.northwestern.edu/ipr/publications/papers/mcc.pdf))
+McKnight, John L., and John P. Kretzmann. _Mapping Community Capacity_. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. ([PDF](http://www.northwestern.edu/ipr/publications/papers/mcc.pdf))
 
-National Civic League. _The Community Visioning and Strategic Planning Handbook_, 2000, pp. 28 to 34. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://www.cpn.org/tools/manuals/Community/pdfs/VSPHandbook.pdf))
+National Civic League. _The Community Visioning and Strategic Planning Handbook_, 2000, pp. 28 to 34. ([PDF - 1.1MB](http://www.cpn.org/tools/manuals/Community/pdfs/VSPHandbook.pdf))
 
 
 {{< tdclose >}}
@@ -434,7 +434,7 @@ Eastside Neighborhood Development Corporation. Payne Arcade Main Street Program 
 
 Houston, Lawrence O., Jr. "BIDS: Business Improvement Districts." Washington, DC: Urban Land Institute and International Downtown Association, 1997, pp. 59-72.
 
-Thacher, David. "The Community Security Initiative: Lessons Learned." pp. 1-30. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://sitemaker.umich.edu/urrcworkingpapers/all_urrc_working_papers/da.data/000000000000000000000000000000000000000000308472/Paper/urrc_02-1.ps.pdf))
+Thacher, David. "The Community Security Initiative: Lessons Learned." pp. 1-30. ([PDF](http://sitemaker.umich.edu/urrcworkingpapers/all_urrc_working_papers/da.data/000000000000000000000000000000000000000000308472/Paper/urrc_02-1.ps.pdf))
 
 Stokvis, Jack R., and James A. Cloar. "CRM: Applying Shopping Center Techniques to Downtown Retailing." Urban Land, April 1991, pp. 7-11.
 

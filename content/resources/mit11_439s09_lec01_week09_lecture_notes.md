@@ -6,6 +6,7 @@ description: Lecture presentation on market analysis approaches, market study re
   capacity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/eacec99308a7289cb0ba6d3386f24e7f_MIT11_439s09_lec01_Week09_Lecture_Notes.pdf
 file_type: application/pdf
+parent_uid: 0416ddb6-38ae-b1b3-9052-8080e126599a
 resourcetype: Document
 title: Market and Capacity Analysis for  Commercial District Planning
 uid: eacec993-08a7-289c-b0ba-6d3386f24e7f

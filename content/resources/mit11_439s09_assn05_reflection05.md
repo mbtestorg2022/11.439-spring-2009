@@ -7,6 +7,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   for the final plan and how to shape the last phases of our work.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/3eb833d4dd06b399335f2dbec89b1182_MIT11_439s09_assn05_reflection05.pdf
 file_type: application/pdf
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: 'Reflection #5: Looking Backward and Forward'
 uid: 3eb833d4-dd06-b399-335f-2dbec89b1182

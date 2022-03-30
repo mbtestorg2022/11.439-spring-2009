@@ -6,6 +6,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   St. Claude Avenue Commercial Corridor are provided for each of four student teams.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/d12e14c3208b8bdc334b7ac2ed8ef2d2_MIT11_439s09_assn09_Assignment01.pdf
 file_type: application/pdf
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: Field Trip Walking Tour of St. Claude Avenue Commercial Corridor
 uid: d12e14c3-208b-8bdc-334b-7ac2ed8ef2d2

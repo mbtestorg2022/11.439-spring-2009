@@ -7,6 +7,7 @@ description: 'Reflection exercise geared to explore issues faced by planners dur
   understanding of planning and your role in the profession. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/096bf25071346b1e7c4803ab135396fd_MIT11_439s09_assn07_reflection07.pdf
 file_type: application/pdf
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: 'Reflection #7: Critical Moments: Personal Understanding'
 uid: 096bf250-7134-6b1e-7c48-03ab135396fd

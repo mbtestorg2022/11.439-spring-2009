@@ -7,6 +7,7 @@ description: Reflection exercise geared to explore issues faced by planners duri
   about the project in New Orleans.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/a13d47752b71ae1dfd152824857a8693_MIT11_439s09_assn01_reflection01.pdf
 file_type: application/pdf
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: 'Reflection #1: Expectations, Goals and Apprehensions '
 uid: a13d4775-2b71-ae1d-fd15-2824857a8693

@@ -6,6 +6,7 @@ description: Interim Report on a retail market study of downtown Salem, Massachu
   strategy.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/ef238fa250cac354cea93b2e185ba7a3_MIT11_439s09_study_Downtown_Salem_Retail_Study.pdf
 file_type: application/pdf
+parent_uid: bd5434f2-511d-7ed9-c958-520c47cb2b2a
 resourcetype: Document
 title: 'Downtown Salem Retail Market Study: Interim Report '
 uid: ef238fa2-50ca-c354-cea9-3b2e185ba7a3

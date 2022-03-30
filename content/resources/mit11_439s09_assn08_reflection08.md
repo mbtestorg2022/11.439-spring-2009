@@ -7,6 +7,7 @@ description: Weekly reflection exercise geared to explore issues faced by planne
   personal contributions to and learning from the group process.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-st-claude-avenue-new-orleans-spring-2009/dd72f7500fbaf9c7d40578b23c823efa_MIT11_439s09_assn08_reflection08.pdf
 file_type: application/pdf
+parent_uid: c89e1604-e825-b56f-f4c1-4bfff8b28fd3
 resourcetype: Document
 title: 'Reflection #8: Group Process and Class Contribution, And Grades'
 uid: dd72f750-0fba-f9c7-d405-78b23c823efa
